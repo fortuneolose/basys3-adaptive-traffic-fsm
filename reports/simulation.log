@@ -1,0 +1,13 @@
+VCD info: dumpfile build/traffic_controller.vcd opened for output.
+TEST: reset, exact durations, and complete normal cycle
+TEST: NS extension, conflict response, and maximum enforcement
+TEST: EW extension and maximum enforcement
+TEST: pedestrian request during every major traffic phase
+TEST: short and multiple pedestrian presses
+TEST: emergency entry from every non-emergency state
+TEST: reset while emergency remains asserted
+TEST: inputs stuck high and starvation bounds
+TEST: held button produces one debounced pulse
+TEST: invalid-state outputs fail safe
+TESTBENCH PASS: 3461 checks completed
+tb/tb_traffic_controller.sv:331: $finish called at 8050000 (1ps)

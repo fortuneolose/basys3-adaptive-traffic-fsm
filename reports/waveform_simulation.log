@@ -1,0 +1,3 @@
+VCD info: dumpfile waveforms/traffic_showcase.vcd opened for output.
+SHOWCASE PASS: waveform scenarios completed
+tb/tb_traffic_controller_showcase.sv:188: $finish called at 1490000 (1ps)

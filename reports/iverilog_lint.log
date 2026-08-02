@@ -1,0 +1,10 @@
+rtl/traffic_controller.sv:188: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/seven_segment_driver.sv:47: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/seven_segment_driver.sv:47: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/seven_segment_driver.sv:47: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/seven_segment_driver.sv:47: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/traffic_controller_top.sv:92: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/traffic_controller_top.sv:109: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/traffic_controller_top.sv:109: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/traffic_controller_top.sv:109: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/traffic_controller_top.sv:109: sorry: constant selects in always_* processes are not currently supported (all bits will be included).

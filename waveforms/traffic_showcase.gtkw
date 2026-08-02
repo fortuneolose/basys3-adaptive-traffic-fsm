@@ -1,0 +1,31 @@
+[*] GTKWave Analyzer save file
+[*] Four traffic-controller showcase scenarios
+[timestart] 0
+[size] 1500 900
+[pos] -1 -1
+@22
+tb_traffic_controller_showcase.scenario_id[2:0]
+tb_traffic_controller_showcase.event_marker[7:0]
+@28
+tb_traffic_controller_showcase.clk
+tb_traffic_controller_showcase.tick
+tb_traffic_controller_showcase.reset
+@22
+tb_traffic_controller_showcase.state_code[3:0]
+tb_traffic_controller_showcase.state_elapsed[31:0]
+tb_traffic_controller_showcase.state_remaining[31:0]
+@28
+tb_traffic_controller_showcase.ns_vehicle
+tb_traffic_controller_showcase.ew_vehicle
+tb_traffic_controller_showcase.ped_request
+tb_traffic_controller_showcase.ped_pending
+tb_traffic_controller_showcase.emergency
+tb_traffic_controller_showcase.emergency_active
+tb_traffic_controller_showcase.ns_red
+tb_traffic_controller_showcase.ns_amber
+tb_traffic_controller_showcase.ns_green
+tb_traffic_controller_showcase.ew_red
+tb_traffic_controller_showcase.ew_amber
+tb_traffic_controller_showcase.ew_green
+tb_traffic_controller_showcase.ped_walk
+tb_traffic_controller_showcase.ped_stop
