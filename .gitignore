@@ -1,0 +1,15 @@
+build/
+*.jou
+*.log
+*.st
+*.vcd
+*.wdb
+*.xp
+*.uns/
+*.cache/
+*.hw/
+*.sim/
+*.ip_use_files/
+*.runs/
+*.gen/
+reports/*.rpt
