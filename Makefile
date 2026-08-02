@@ -1,3 +1,6 @@
+SHELL := /bin/bash
+.SHELLFLAGS := -o pipefail -c
+
 RTL := rtl/input_synchronizer.sv rtl/button_debouncer.sv rtl/tick_generator.sv \
        rtl/seven_segment_driver.sv rtl/traffic_controller.sv rtl/traffic_controller_top.sv
 TB := tb/tb_traffic_controller.sv
